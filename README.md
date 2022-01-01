@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ashish Sing Rawat @ashishasr
+- 👋 Hi, I’m Ashish Singh Rawat @ashishasr
 - 👀 I’m interested in java, python,Rest WebService, bigdata technologies (hadoop, Sqoop, Spark, Kafka, NoSql DB - HBase, Casandra, RDBMS - MySql, Sql Server),
       Cloud services, Spring Boot, Spring Microservices, machine learning and a datscience enthusiast.
 - 🌱 I’m currently learning AWS Cloud and machine learning
